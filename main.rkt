@@ -4,7 +4,8 @@
 
 (require scribble/manual
          scriblib/autobib
-         (for-syntax racket/list
+         (for-syntax racket/base
+                     racket/list
                      racket/syntax
                      syntax/parse))
 
