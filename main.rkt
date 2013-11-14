@@ -62,5 +62,5 @@
 (define/short aosd "AOSD" (string-append International Conference "on Aspect-Oriented Software Development"))
 (define/short foal "FOAL" "Foundations of Aspect-Oriented Languages")
 (define/short tlca "TLCA" (string-append International Conference "Typed Lambda Calculi and Applications"))
-(define/short i&c "Info. & Comp." "Information and Computation"))
+(define/short i&c "Info. & Comp." "Information and Computation")
 
